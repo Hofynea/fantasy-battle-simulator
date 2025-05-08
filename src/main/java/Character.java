@@ -5,31 +5,31 @@ public class Character {
     /**
      * Default health.
      */
-    public static final int defaultHealth = 100; //SER316 TASK 2 SPOT- BUGS FIX
+    public static final int defaultHealth = 100;
     /**
      * Default level.
      */
-    public static final int defaultLevel = 1; //SER316 TASK 2 SPOT- BUGS FIX
+    public static final int defaultLevel = 1;
     /**
      * Default experience.
      */
-    public static final int defaultExperience = 0; //SER316 TASK 2 SPOT- BUGS FIX
+    public static final int defaultExperience = 0;
     /**
      * Default protection.
      */
-    public static final int defaultProtection = 0; //SER316 TASK 2 SPOT- BUGS FIX
+    public static final int defaultProtection = 0;
     /**
      * Default damage.
      */
-    public static final int defaultDamage = 0; //SER316 TASK 2 SPOT- BUGS FIX
+    public static final int defaultDamage = 0;
     /**
      * Default speed.
      */
-    public static final double defaultSpeed = 0.0; //SER316 TASK 2 SPOT- BUGS FIX
+    public static final double defaultSpeed = 0.0;
     /**
      * Default points per level.
      */
-    public static final int defaultPointsPerLevel = 100; //SER316 TASK 2 SPOT- BUGS FIX
+    public static final int defaultPointsPerLevel = 100;
 
     /**
      * Character health info.

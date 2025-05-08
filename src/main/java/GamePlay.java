@@ -6,7 +6,7 @@ public class GamePlay implements GamePlayInterface {
 
     public Character player;
     public List<Character> opponents;
-    //public List<Character> remove; //SER316 TASK 2 SPOT- BUGS FIX
+    //public List<Character> remove;
 
     /**
      * Default constructor for Game Play.
